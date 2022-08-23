@@ -92,7 +92,7 @@ index 949cd912178f..c02a06edaacb 100644
      <bool name="config_faceAuthOnlyOnSecurityView">false</bool>
  
 -    <!-- Whether devices suports in-display fingerprint when screen is off -->
--    <bool name="config_supportsScreenOffUdfps">true</bool>
+-    <bool name="config_supportsScreenOffUdfps">false</bool>
 -
  </resources>
 diff --git a/core/res/res/values/custom_symbols.xml b/core/res/res/values/custom_symbols.xml
@@ -210,7 +210,7 @@ index dcc3a54d0f97..cc8f14385ce0 100644
 -          -->
 -    </string-array>
 -
- </resources>
+     <!-- Doze: does the double tap sensor need a proximity check? -->
 diff --git a/packages/SystemUI/src/com/android/systemui/biometrics/AuthContainerView.java b/packages/SystemUI/src/com/android/systemui/biometrics/AuthContainerView.java
 index fb5a948c6716..fd37b3509a4e 100644
 --- a/packages/SystemUI/src/com/android/systemui/biometrics/AuthContainerView.java
