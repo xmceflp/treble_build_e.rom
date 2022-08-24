@@ -21,9 +21,9 @@ index 7400a75e755f..99534baaf956 100644
  import android.graphics.Rect;
 +import android.os.SystemProperties;
  import android.provider.Settings;
+ import android.os.UserHandle;
  import android.provider.AlarmClock;
- import android.util.AttributeSet;
-@@ -281,8 +282,10 @@ public class QuickStatusBarHeader extends FrameLayout implements TunerService.Tu
+@@ -285,8 +286,10 @@ public class QuickStatusBarHeader extends FrameLayout implements TunerService.Tu
  
          mConfigShowBatteryEstimate = resources.getBoolean(R.bool.config_showBatteryEstimateQSBH);
  
