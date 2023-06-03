@@ -1,6 +1,6 @@
 ![alt text][logo]
 
-[logo]:[[https://crdroid.net/img/logo.png] "E ROM"
+[logo]:[https://pbs.twimg.com/profile_images/1300689169069506560/gaepaZ4O_400x400.jpg] "E ROM"
 
 # /e/ GSI
 
