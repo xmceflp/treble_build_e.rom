@@ -1,6 +1,6 @@
 ![alt text][logo]
 
-[logo](https://community.e.foundation/uploads/default/original/1X/281cdc5a2b518e29ee6ca33375e93d4cc6e73f4c.png) "/e/ ROM"
+[logo]:[https://crdroid.net/img/logo.png](https://community.e.foundation/uploads/default/original/1X/281cdc5a2b518e29ee6ca33375e93d4cc6e73f4c.png) "E ROM"
 
 # /e/ GSI
 
